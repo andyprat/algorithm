@@ -1,8 +1,0 @@
-{
-  "appId": "com.choco.algorithm",
-  "appName": "Choco Algorithm",
-  "bundledWebRuntime": false,
-  "npmClient": "yarn",
-  "webDir": "build",
-  "cordova": {}
-}
